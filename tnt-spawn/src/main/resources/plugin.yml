@@ -1,0 +1,12 @@
+name: tnt-spawn
+version: '1.0-SNAPSHOT'
+main: io.kartik2203.tntspawn
+api-version: '1.21'
+
+commands:
+  tntspawner:
+    description: Starts plugin logic manually
+    usage: /tntspawner
+  giveShovel:
+    description: gives a shovel
+    usage: /giveShovel

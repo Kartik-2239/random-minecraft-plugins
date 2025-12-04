@@ -1,0 +1,8 @@
+name: chicken-jockey
+version: '1.0-SNAPSHOT'
+main: io.kartik2203.tpPlugin.TpPlugin
+api-version: '1.21.8'
+commands:
+  runplugin:
+    description: minecraft minecraft 2 2
+    usage: /runplugin

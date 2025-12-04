@@ -1,0 +1,4 @@
+name: blockPlace
+version: '1.0-SNAPSHOT'
+main: org.tp.blockPlace.BlockPlace
+api-version: '1.21'

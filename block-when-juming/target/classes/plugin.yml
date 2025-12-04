@@ -1,0 +1,4 @@
+name: spiderMan
+version: '1.0-SNAPSHOT'
+main: io.kartik2203.spiderMan
+api-version: '1.21'

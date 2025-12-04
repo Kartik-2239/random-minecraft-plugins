@@ -1,0 +1,4 @@
+name: randomPotionEffectOnJumping
+version: '1.0-SNAPSHOT'
+main: org.tp.jumpDetector.JumpDetector
+api-version: '1.21'

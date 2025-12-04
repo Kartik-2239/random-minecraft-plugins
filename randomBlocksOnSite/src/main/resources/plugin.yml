@@ -1,0 +1,4 @@
+name: randomBlocksOnSite
+version: '1.0-SNAPSHOT'
+main: org.tp.randomBlocksOnSite.RandomBlocksOnSite
+api-version: '1.21'

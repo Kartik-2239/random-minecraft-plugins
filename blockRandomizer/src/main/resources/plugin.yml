@@ -1,0 +1,4 @@
+name: blockRandomizer
+version: '1.0-SNAPSHOT'
+main: org.tp.blockRandomizer.BlockRandomizer
+api-version: '1.21'
